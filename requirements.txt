@@ -1,0 +1,11 @@
+streamlit 
+langchain
+langchain-core 
+langchain-groq 
+langchain-huggingface
+langchain-text-splitters 
+langchain-community 
+langchain-classic
+faiss-cpu 
+sentence-transformers 
+bs4
